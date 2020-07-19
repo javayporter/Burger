@@ -1,0 +1,34 @@
+body {
+    background-color: black;
+    color: whitesmoke;
+}
+.jumbotron {
+    margin-top: 20px;
+    background-color:orange;
+    background-image: url("https://consequenceofsound.net/wp-content/uploads/2019/05/good-burger-returns-kenan-kel-all-that-reunion-revival.png");
+    border-radius: 5px;
+    box-shadow: 0 0 10px 3px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Courier New', Courier, monospace;
+    color: red;
+}
+.card {
+    /* background-color: transparent; */
+}
+button {
+    background-color: black;
+    color: whitesmoke;
+}
+button:hover {
+    background-color: red;
+}
+.form-control {
+    background-color: transparent;
+}
+
+h4 {
+    background: yellow;
+    color: red;
+    font-weight: bold;
+}
